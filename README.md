@@ -1,7 +1,7 @@
 # basic-heroku
 
 ###Prerequisites
-Heroku [https://devcenter.heroku.com/articles/heroku-command] [URL Heroku]  
+Heroku https://devcenter.heroku.com/articles/heroku-command
 nodejs https://nodejs.org
 
 ###Commands create Heroku
