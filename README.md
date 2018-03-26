@@ -1,10 +1,10 @@
 # basic-heroku
 
-###Prerequisites
+### Prerequisites
 Heroku https://devcenter.heroku.com/articles/heroku-command  
 nodejs https://nodejs.org
 
-###Commands create Heroku
+### Commands create Heroku
 `heroku login` 
 Enter your Heroku credentials.  
 Email: youremail@mail.com  
